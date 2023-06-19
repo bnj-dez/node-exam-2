@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 3,
+            "author": "Lucas",
+            "title": "Titre 3",
+            "description": "Une petite description"
+        },
+        {
+            "id": 4,
+            "author": "Nicolas",
+            "title": "Titre 4",
+            "description": "Une petite description"
+        },
+        {
+            "id": 5,
+            "author": "Silvin",
+            "title": "Titre 5",
+            "description": "Une petite description"
+        },
+        {
+            "id": 6,
+            "author": "Un nouvel auteur",
+            "title": "Un nouveau titre",
+            "description": "Une nouvelle description"
+        },
+        {
+            "id": 8,
+            "author": "Un nouvel auteur",
+            "title": "Un nouveau titre encore 222",
+            "description": "Une nouvelle description"
+        },
+        {
+            "id": 9,
+            "author": "Un nouvel auteur",
+            "title": "Un nouveau titre encore",
+            "description": "Une nouvelle description"
+        }
+    ]
+}
